@@ -18,6 +18,7 @@ Aicionar no ```pom.xml``` a dependência abaixo:
  <scope>test</scope>  
 </dependency>
 ```
+Referência: https://mvnrepository.com/search?q=junit
 
 ## Códigos realizados:
 - [JUnit](JUnit)
